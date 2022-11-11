@@ -1,6 +1,4 @@
-[![<zlaarous>'s 42 stats](https://badge.mediaplus.ma/darkblue/<zlaarous>)]
-
-[![<zlaarous>'s 42 stats](https://badge.mediaplus.ma/<theme>/<zlaarous>)]
+https://badge.mediaplus.ma/binary/zlaarous
 
 
 🔭 I am currently a 42 Network computer science student at the 1337 Coding School.
