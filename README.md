@@ -9,7 +9,7 @@ I focus on competitive programming to improve my skills.
 
 📫 How to reach me: zouhairlrs@gamil.com
 
-⚡ Fun fact: Am good at help if you have a bug! :)
+⚡ Fun fact: I'm good and available for help if you have any bug! :)
 
 
 
