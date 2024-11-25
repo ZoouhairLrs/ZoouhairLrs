@@ -1,9 +1,8 @@
+
+
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/zlaarous" alt="zlaarous's 42 stats" /></a>
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=zlaarous&label=&color=1&icon=2&pretty=true" />
-</a>
 
 🔭 I am currently a 42 Network computer science student at the 1337 Coding School.
 
